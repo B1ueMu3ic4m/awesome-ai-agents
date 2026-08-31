@@ -2253,6 +2253,27 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
+## [OPC Company](https://github.com/B1ueMu3ic4m/OPCCompany)
+Watch your AI coding agents run a 2D company on macOS
+
+
+<details>
+
+### Category
+Coding agent / Orchestration
+
+### Description
+
+- A CTO agent breaks the boss's goals into a task graph and dispatches AI employees
+- Each employee works in a real terminal seat (Claude Code, Codex, Gemini CLI, or OpenAI-compatible APIs)
+- Approval gates stop risky actions; deliveries pass review & acceptance
+- Native macOS (Swift 6 + SwiftUI + SpriteKit), local-first, bilingual UI (EN/中文), MIT
+
+### Links
+- [GitHub](https://github.com/B1ueMu3ic4m/OPCCompany)
+  
+</details>
+
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
