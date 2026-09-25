@@ -2265,7 +2265,7 @@ Coding agent / Orchestration
 
 - A CTO agent breaks the boss's goals into a task graph and dispatches AI employees
 - Each employee works in a real terminal seat (Claude Code, Codex, Gemini CLI, or OpenAI-compatible APIs)
-- Approval gates stop risky actions; deliveries pass review & acceptance
+- Approval gates with receipts for every decision; delivery checks verify each file really landed, and a morning standup / team view report what the company did (and who did it) while you were away
 - Native macOS app (Swift 6 + SwiftUI + SpriteKit), plus a headless `opc` CLI and a Flutter desktop shell — cross-platform (macOS/Windows) since v0.3.0; embeddable via a 6-symbol C ABI; local-first, bilingual UI (EN/中文), MIT
 
 ### Links
